@@ -12,7 +12,11 @@ let dataArray = [
     {
         imgSrc: "https://dynaimage.cdn.cnn.com/cnn/c_fill,g_auto,w_1200,h_675,ar_16:9/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210316134609-01-wisdom-project-spring.jpg",
         text: "Ech, pavasaris..."
-    }
+    },
+    {
+        imgSrc: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/autumn-in-the-white-mountains-of-new-hampshire-royalty-free-image-841380450-1531931081.jpg?crop=1.00xw:0.755xh;0,0.202xh&resize=1200:*",
+        text: "Myliu rudenį!"
+    },
 ];
 function changeHtml(data) {
     let text = document.getElementById("text");
